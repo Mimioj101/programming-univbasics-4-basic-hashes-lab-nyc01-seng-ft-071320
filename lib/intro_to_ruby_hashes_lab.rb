@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  new_hash = {:vegetables 
+  new_hash = {vegetables: cucumber}
 end
 
 def pioneer
